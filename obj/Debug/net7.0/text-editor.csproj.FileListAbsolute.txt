@@ -1,0 +1,14 @@
+D:\Libraries\dev\Baltaio\text-editor\bin\Debug\net7.0\text-editor.exe
+D:\Libraries\dev\Baltaio\text-editor\bin\Debug\net7.0\text-editor.deps.json
+D:\Libraries\dev\Baltaio\text-editor\bin\Debug\net7.0\text-editor.runtimeconfig.json
+D:\Libraries\dev\Baltaio\text-editor\bin\Debug\net7.0\text-editor.dll
+D:\Libraries\dev\Baltaio\text-editor\bin\Debug\net7.0\text-editor.pdb
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.AssemblyInfoInputs.cache
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.AssemblyInfo.cs
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.csproj.CoreCompileInputs.cache
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.dll
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\refint\text-editor.dll
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.pdb
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\text-editor.genruntimeconfig.cache
+D:\Libraries\dev\Baltaio\text-editor\obj\Debug\net7.0\ref\text-editor.dll
